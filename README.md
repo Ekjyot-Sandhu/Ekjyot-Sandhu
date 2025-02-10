@@ -21,34 +21,128 @@ If you're looking to grow, then lets connect and grow together!
 <br/>  
 
 
-## Rapidfire  
-- 🔭 I am a Mobile App Developer!  
-  
+### 🔥 Rapidfire
+- 🔭 **I am a Mobile App Developer** who loves working on innovative solutions.
+- 🌱 **Currently Learning**: Full-stack mobile development for enhanced end-to-end solutions.
+- 💡 **Ask me about:** Flutter, Dart, FlutterFlow, AI in mobile apps, and software architecture.
+- ⚡ **Coding Philosophy:** Keep it simple, efficient, and scalable.
+- 📈 **Passionate About:** Performance optimization, UI/UX, and delivering top-tier user experiences.
 
-- 🌱 I’m interested in learning complete stacks for mobile app development and growing from there.  
-  
-
-- ❓ Ask me about anything related to Flutter, Dart or Flutter Flow (and about life if you'd like!)  
-  
-
-- ⚡ I believe in keeping my code simple.  
   
 
 <br/>  
 
 
-## Languages and Tools  
+### ⚡ What I Do
+- **Expertise in Flutter & Dart** – Skilled in building robust, scalable apps using industry-best **state management techniques** (GetX, Provider, Bloc).
+- **Experience with AI & ML Integration** – Implemented **resource-intensive AI models** using isolates to ensure efficiency.
+- **Strong Architectural Knowledge** – MVVM, Clean Architecture, and modular coding principles.
+- **Cross-Platform Development** – Experience in **native Android (Kotlin/Java) and iOS (Swift)** for feature extensions.
+- **Cloud & Backend Services** – **Firebase, REST APIs, Postman, Swagger**, and authentication mechanisms.
+- **Version Control & Collaboration** – Proficient in **Git, Bitbucket**, and Agile development practices using **Jira**.
+- **UI/UX & Design Tools** – Skilled in **Figma, Photoshop, and Premiere Pro** for visually appealing applications.
+
+  
+
+<br/>  
+
+
+
+
+### 🛠️ Tech Stack & Tools  
 <div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-</div>  
+  <table>
+    <tr>
+      <td style="padding: 20px;">
+        <a href="https://flutter.dev/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://dart.dev/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://www.flutterflow.io/" target="_blank">
+          <img src="https://yt3.googleusercontent.com/ifGefyNhaGJ2TXrybafKcNDolsx1Wxpsk4mroLuVsbCZLQhtPYuLBrjUv5JG0ZnRLDi78I-KDRQ=s900-c-k-c0x00ffffff-no-rj" alt="Flutter" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://firebase.google.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://developer.apple.com/swift/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://www.android.com/intl/en_in/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="80"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px;">
+        <a href="https://www.figma.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://github.com/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="80"/>
+        </a>
+      </td>
+      <td style="padding: 20px;">
+        <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="80"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <br/>  
+
+  
+
+<br/>  
+
+
+
+
+### 📢 Let's Connect!  
+I am always open to collaborating, learning, and growing together. Feel free to **reach out** for projects, discussions, or just to talk about **Flutter, AI, and tech!**
+
+📩 **Email:** ekjyot.sandhu@gmail.com  
+💼 **LinkedIn:** [Ekjyot Sandhu](https://linkedin.com/in/ekjyot-sandhu-766b59211)  
+👨‍💻 **GitHub:** [EkjyotSandhu](https://github.com/EkjyotSandhu)  
+
+  
+
+<br/>  
+
+
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekjyotsandhu12&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekjyotsandhu12&" alt="GitHub Streak" />
+</p>
+
