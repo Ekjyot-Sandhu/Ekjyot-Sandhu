@@ -129,8 +129,8 @@ If you're looking to grow, then lets connect and grow together!
 I am always open to collaborating, learning, and growing together. Feel free to **reach out** for projects, discussions, or just to talk about **Flutter, AI, and tech!**
 
 📩 **Email:** ekjyot.sandhu93@gmail.com  
-💼 **LinkedIn:** [Ekjyot Sandhu](https://linkedin.com/in/ekjyot-sandhu-766b59211)  
-👨‍💻 **GitHub:** [EkjyotSandhu](https://github.com/EkjyotSandhu12)  
+💼 **LinkedIn:** [Ekjyot Sandhu](https://www.linkedin.com/in/EkjyotSandhu/)  
+👨‍💻 **GitHub:** [EkjyotSandhu](https://github.com/Ekjyot-Sandhu)  
 
   
 
