@@ -22,7 +22,7 @@ If you're looking to grow, then lets connect and grow together!
 
 
 ### 🔥 Rapidfire
-- 🔭 **I am a Mobile App Developer** who loves working on innovative solutions.
+- 🔭 **I am a Mobile App Developer and Flutter Flow developer** who loves working on innovative solutions.
 - 🌱 **Currently Learning**: Full-stack mobile development for enhanced end-to-end solutions.
 - 💡 **Ask me about:** Flutter, Dart, FlutterFlow, AI in mobile apps, and software architecture.
 - ⚡ **Coding Philosophy:** Keep it simple, efficient, and scalable.
@@ -34,13 +34,13 @@ If you're looking to grow, then lets connect and grow together!
 
 
 ### ⚡ What I Do
-- **Expertise in Flutter & Dart** – Skilled in building robust, scalable apps using industry-best **state management techniques** (GetX, Provider, Bloc).
+- **Expertise in Flutter & Dart** – Skilled in building robust, scalable apps using industry-best **state management techniques** such as GetX, Provider, Bloc, and eager to explore more.
 - **Experience with AI & ML Integration** – Implemented **resource-intensive AI models** using isolates to ensure efficiency.
 - **Strong Architectural Knowledge** – MVVM, Clean Architecture, and modular coding principles.
-- **Cross-Platform Development** – Experience in **native Android (Kotlin/Java) and iOS (Swift)** for feature extensions.
+- **Cross-Platform Development** – Experience in **native Android (Kotlin/Java) and iOS (Swift)** for feature extensions through flutter native channels.
 - **Cloud & Backend Services** – **Firebase, REST APIs, Postman, Swagger**, and authentication mechanisms.
 - **Version Control & Collaboration** – Proficient in **Git, Bitbucket**, and Agile development practices using **Jira**.
-- **UI/UX & Design Tools** – Skilled in **Figma, Photoshop, and Premiere Pro** for visually appealing applications.
+- **UI/UX & Design Tools** – Used UI/UX and editing tools such as **Figma, Photoshop, and Premiere Pro**.
 
   
 
