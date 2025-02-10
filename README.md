@@ -9,7 +9,7 @@
 
 
 ### Greetings!  
-I am a skilled Flutter & FlutterFlow developer with 2+ years of experience, and well-versed in working with foreign managers. I have a strong foundation in writing clean, optimized Dart code, following strict architectural principles to ensure scalability and maintainability.
+I am a skilled Flutter & FlutterFlow developer with 2+ years of experience. I have a strong foundation in writing clean, optimized Dart code, following strict architectural principles to ensure scalability and maintainability.
 
 Beyond Flutter, I have experience writing native code for both Android and iOS, allowing me to extend app functionality when needed. I have also integrated AI models into applications, enhancing user experiences with machine learning capabilities.
 
@@ -128,9 +128,9 @@ If you're looking to grow, then lets connect and grow together!
 ### 📢 Let's Connect!  
 I am always open to collaborating, learning, and growing together. Feel free to **reach out** for projects, discussions, or just to talk about **Flutter, AI, and tech!**
 
-📩 **Email:** ekjyot.sandhu@gmail.com  
+📩 **Email:** ekjyot.sandhu93@gmail.com  
 💼 **LinkedIn:** [Ekjyot Sandhu](https://linkedin.com/in/ekjyot-sandhu-766b59211)  
-👨‍💻 **GitHub:** [EkjyotSandhu](https://github.com/EkjyotSandhu)  
+👨‍💻 **GitHub:** [EkjyotSandhu](https://github.com/EkjyotSandhu12)  
 
   
 
