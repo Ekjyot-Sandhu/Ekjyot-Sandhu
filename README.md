@@ -11,9 +11,9 @@
 ### Greetings!  
 I am a skilled Flutter & FlutterFlow developer with 2+ years of experience. I have a strong foundation in writing clean, optimized Dart code, following strict architectural principles to ensure scalability and maintainability.
 
-Beyond Flutter, I have experience writing native code for both Android and iOS, allowing me to extend app functionality when needed. I have also integrated AI models into applications, enhancing user experiences with machine learning capabilities.
+Beyond Flutter, I have experience writing native code for iOS, allowing me to extend app functionality when needed. I have also integrated AI models into applications, enhancing user experiences with machine learning capabilities.
 
-With 1000+ downloads on the Play Store, I focus on delivering high-quality applications that perform efficiently. My approach is humble, always open to learning, and dedicated to improving my craft.
+With 1000+ downloads on the App Store & Play Store, I focus on delivering high-quality applications that perform efficiently. My approach is humble, always open to learning, and dedicated to improving my craft.
 
 If you're looking to grow, then lets connect and grow together!  
   
@@ -22,7 +22,7 @@ If you're looking to grow, then lets connect and grow together!
 
 
 ### 🔥 Rapidfire
-- 🔭 **I am a Mobile App Developer and Flutter Flow developer** who loves working on innovative solutions.
+- 🔭 **I am a Mobile App Developer** who has worked with Flutter and FlutterFlow.
 - 🌱 **Currently Learning**: Full-stack mobile development for enhanced end-to-end solutions.
 - 💡 **Ask me about:** Flutter, Dart, FlutterFlow, AI in mobile apps, and software architecture.
 - ⚡ **Coding Philosophy:** Keep it simple, efficient, and scalable.
@@ -34,10 +34,10 @@ If you're looking to grow, then lets connect and grow together!
 
 
 ### ⚡ What I Do
-- **Expertise in Flutter & Dart** – Skilled in building robust, scalable apps using industry-best **state management techniques** such as GetX, Provider, Bloc, and eager to explore more.
+- **Expertise in Flutter, FlutterFlow & Dart** – Skilled in building robust, scalable apps using industry-best **state management techniques** such as GetX, Provider, Bloc, and eager to explore more.
 - **Experience with AI & ML Integration** – Implemented **resource-intensive AI models** using isolates to ensure efficiency.
 - **Strong Architectural Knowledge** – MVVM, Clean Architecture, and modular coding principles.
-- **Cross-Platform Development** – Experience in **native Android (Kotlin/Java) and iOS (Swift)** for feature extensions through flutter native channels.
+- **Cross-Platform Development** – Experience in **iOS (Swift)** for feature extensions through flutter native channels.
 - **Cloud & Backend Services** – **Firebase, REST APIs, Postman, Swagger**, and authentication mechanisms.
 - **Version Control & Collaboration** – Proficient in **Git, Bitbucket**, and Agile development practices using **Jira**.
 - **UI/UX & Design Tools** – Used UI/UX and editing tools such as **Figma, Photoshop, and Premiere Pro**.
@@ -45,8 +45,6 @@ If you're looking to grow, then lets connect and grow together!
   
 
 <br/>  
-
-
 
 
 ### 🛠️ Tech Stack & Tools  
