@@ -138,9 +138,9 @@ I am always open to collaborating, learning, and growing together. Feel free to 
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekjyotsandhu12&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ekjyot-Sandhu&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekjyotsandhu12&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekjyot-Sandhu&" alt="GitHub Streak" />
 </p>
 
